@@ -23,8 +23,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/manthankhosla/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/manthankhosla/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/manthankhosla/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/manthankhosla/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
