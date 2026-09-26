@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manthankhosla/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0724-find-pivot-index](https://github.com/manthankhosla/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/manthankhosla/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/manthankhosla/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Dynamic Programming
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/manthankhosla/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/manthankhosla/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
