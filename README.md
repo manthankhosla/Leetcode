@@ -8,6 +8,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/manthankhosla/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/manthankhosla/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/manthankhosla/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/manthankhosla/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/manthankhosla/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | [0202-happy-number](https://github.com/manthankhosla/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/manthankhosla/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/manthankhosla/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/manthankhosla/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,5 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/manthankhosla/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/manthankhosla/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/manthankhosla/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
