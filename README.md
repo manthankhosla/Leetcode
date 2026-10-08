@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manthankhosla/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0056-merge-intervals](https://github.com/manthankhosla/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/manthankhosla/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0525-contiguous-array](https://github.com/manthankhosla/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/manthankhosla/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/manthankhosla/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
