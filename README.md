@@ -12,6 +12,7 @@
 | [0724-find-pivot-index](https://github.com/manthankhosla/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/manthankhosla/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manthankhosla/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0986-interval-list-intersections](https://github.com/manthankhosla/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/manthankhosla/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/manthankhosla/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/manthankhosla/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/manthankhosla/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0986-interval-list-intersections](https://github.com/manthankhosla/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/manthankhosla/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/manthankhosla/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
