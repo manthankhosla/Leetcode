@@ -72,4 +72,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/manthankhosla/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manthankhosla/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manthankhosla/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
