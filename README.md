@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/manthankhosla/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/manthankhosla/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/manthankhosla/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0383-ransom-note](https://github.com/manthankhosla/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/manthankhosla/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0525-contiguous-array](https://github.com/manthankhosla/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/manthankhosla/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -78,6 +79,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/manthankhosla/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/manthankhosla/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manthankhosla/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/manthankhosla/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -100,5 +102,6 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/manthankhosla/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/manthankhosla/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
